@@ -53,7 +53,7 @@ Here’s a bit more about me: 👇
 <h3>Visualization & Monitoring</h3>
 <p align="left">
  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg" alt="Grafana" width="40" height="40"/>
   </a>
 </p>
 <p align="left">
