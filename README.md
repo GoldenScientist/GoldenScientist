@@ -9,19 +9,19 @@ Here’s a bit more about me: 👇
 ## 🛠️ **Tech Stack**
 🔹 **Programming Languages** 
 
-&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
-&nbsp;![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;
-&nbsp;![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
-&nbsp;![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;
-&nbsp;![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;
-&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 🔹 **Big Data Tools**  
 
-![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)&nbsp;
-![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)&nbsp;
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)&nbsp;
-![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-F26322?logo=opentelemetry&logoColor=white)
+&nbsp;&nbsp;&nbsp;![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-F26322?logo=opentelemetry&logoColor=white)
 
 🔹 **Cloud Platforms & Infrastructure**  
 
