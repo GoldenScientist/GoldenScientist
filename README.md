@@ -14,7 +14,6 @@ Here’s a bit more about me: 👇
 
 ---
 
-## 🛠️ **Tech Stack**
 <p align="left">
 <h3>Programming Languages</h3>
   <br>
