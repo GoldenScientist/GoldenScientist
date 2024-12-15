@@ -12,8 +12,6 @@ I specialize in designing and implementing robust data pipelines, optimizing wor
 
 Here’s a bit more about me: 👇
 
----
-
 ## 🛠️ **Tech Stack**
 
 <p align="left">
