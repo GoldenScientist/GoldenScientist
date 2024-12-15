@@ -35,6 +35,3 @@ Here’s a bit more about me: 👇
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=GoldenScientist&theme=default&no-frame=false&no-bg=false&margin-w=4)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GoldenScientist&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
