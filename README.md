@@ -32,7 +32,12 @@ Here’s a bit more about me: 👇
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
-
+🔹 <strong>Databases</strong>
+<p align="left">
+   <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxDB" width="40" height="40"/>
+  </a>
+ </p> 
 <p align="left">
   🔹 <strong>Big Data Tools</strong>
   <br>
@@ -43,14 +48,14 @@ Here’s a bit more about me: 👇
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
   </a>
-  <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxDB" width="40" height="40"/>
-  </a>
-  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+</p>
+
+🔹 <strong>Visualization & Monitoring</strong>
+<p align="left">
+ <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
   </a>
 </p>
-
 <p align="left">
   🔹 <strong>Cloud Platforms & Infrastructure:</strong>
   <br>
