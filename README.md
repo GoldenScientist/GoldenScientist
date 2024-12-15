@@ -61,15 +61,11 @@ Here’s a bit more about me: 👇
   </a>
 </p>
 
----
-
 ## 🌱 **What I'm Learning**
 I'm always growing! Currently exploring:  
 🔹 Real-time machine learning with Kafka Streams  
 🔹 Advanced data governance and cataloging with tools like Apache Atlas  
 🔹 Infrastructure as code with **Opentufu**  
-
----
 
 ## 🤝 **Let's Connect!**
 🌍 Find me across the web:  
@@ -79,11 +75,7 @@ I'm always growing! Currently exploring:
 - 💬 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about data engineering! 😄
 - 📫 You can contact me at **aubertsoft2014@gmail.com** 
 
----
-
 ⭐️ **Fun Fact:** When I’m not wrangling data, you can find me 🎨 painting, 📚 reading sci-fi, or🎣 Fishing at sea!
-
----
 
 🔔 **Don’t forget to star my repos if you find them helpful!** 🌟  
 Thanks for visiting, and happy coding! 💻✨
