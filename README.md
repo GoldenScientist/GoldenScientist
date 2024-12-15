@@ -1,5 +1,6 @@
-## 💻 Hello 👋 there I'm Aubert EMAKO – Data Engineer & SRE Extraordinaire! 🚀
+# 💻 Hello, I'm Aubert EMAKO – Data Engineer & SRE 🚀
 
+👋 Welcome to my GitHub profile!  
 I specialize in designing and implementing robust data pipelines, optimizing workflows, and delivering scalable solutions for big data challenges.  
 Here’s a bit more about me: 👇
 
@@ -23,11 +24,10 @@ Here’s a bit more about me: 👇
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
-<img align="right" alt="Coding" width="320" src="https://github.com/yasir-shahzad/yasir-shahzad/blob/resources/media/Cat-animation.gif">
 
-[![Yasir's github stats](https://bad-apple-github-readme.vercel.app/api?username=yasir-shahzad&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
-[![Yasir's current streak](https://streak-stats.demolab.com/?user=yasir-shahzad&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=yasir-shahzad&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![GoldenScientist's github stats](https://bad-apple-github-readme.vercel.app/api?username=GoldenScientist&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)  
+[![GoldenScientist's current streak](https://streak-stats.demolab.com/?user=GoldenScientist&count_private=true&theme=blue-green&title_color=00b3ff)](#)  
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=GoldenScientist&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ## ⚡Activity Graph
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=GoldenScientist&theme=react-dark"/>
