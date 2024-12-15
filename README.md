@@ -41,9 +41,6 @@ Here’s a bit more about me: 👇
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
   </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" width="40" height="40"/>
-  </a>
   <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxDB" width="40" height="40"/>
   </a>
