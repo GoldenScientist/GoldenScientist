@@ -48,6 +48,9 @@ Here’s a bit more about me: 👇
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
   </a>
+  <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="Rabbitmq" width="40" height="40"/>
+  </a>
 </p>
 
 <h3>Visualization & Monitoring</h3>
@@ -69,11 +72,18 @@ Here’s a bit more about me: 👇
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  alt="Docker" width="40" height="40" />
   </a>
   <a href="https://opentofu.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opentofu/opentofu-icon.svg" alt="Opentofu" alt="Opentofu" width="40" height="40" />
+  </a>
+   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/>
+  </a>
 </p>
 
 ---
