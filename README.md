@@ -42,7 +42,7 @@ Here’s a bit more about me: 👇
 &nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white))&nbsp;
+&nbsp;&nbsp;&nbsp;![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)&nbsp;
 
 🔹 **Monitoring & Visualization**  
 
@@ -52,7 +52,7 @@ Here’s a bit more about me: 👇
 
 &nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white))&nbsp;
+&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)&nbsp;
 
 ---
 
