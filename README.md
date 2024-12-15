@@ -16,14 +16,14 @@ Here’s a bit more about me: 👇
 
 ## 🛠️ **Tech Stack**
 <p align="left">
-<strong>Programming Languages</strong>
+<h3>Programming Languages</h3>
   <br>
    <br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="Scala" width="40" height="40"/>
   </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -32,14 +32,14 @@ Here’s a bit more about me: 👇
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
-<strong>Databases</strong>
+<h3>Databases</h3>
 <p align="left">
    <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxDB" width="40" height="40"/>
   </a>
  </p> 
 <p align="left">
- <strong>Big Data Tools</strong>
+ <h3>Big Data Tools</h3>
   <br>
    <br>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
@@ -50,14 +50,14 @@ Here’s a bit more about me: 👇
   </a>
 </p>
 
-<strong>Visualization & Monitoring</strong>
+<h3>Visualization & Monitoring</h3>
 <p align="left">
  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
   </a>
 </p>
 <p align="left">
-<strong>Cloud Platforms & Infrastructure:</strong>
+<h3>Cloud Platforms & Infrastructure:</h3>
   <br>
    <br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
