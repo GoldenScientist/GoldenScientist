@@ -29,7 +29,7 @@ Here’s a bit more about me: 👇
 &nbsp;&nbsp;&nbsp;![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-F26322?logo=opentelemetry&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-F26322?logo=opentelemetry&logoColor=white)&nbsp;&nbsp;
 
 🔹 **Cloud Platforms & Infrastructure**  
 
