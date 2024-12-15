@@ -16,7 +16,7 @@ Here’s a bit more about me: 👇
 
 ## 🛠️ **Tech Stack**
 <p align="left">
-  🔹 <strong>Programming Languages:</strong>
+  🔹 <strong>Programming Languages</strong>
   <br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -33,7 +33,7 @@ Here’s a bit more about me: 👇
 </p>
 
 <p align="left">
-  🔹 <strong>Big Data Tools:</strong>
+  🔹 <strong>Big Data Tools</strong>
   <br>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" width="40" height="40"/>
