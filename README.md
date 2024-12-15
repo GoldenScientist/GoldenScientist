@@ -14,7 +14,7 @@ Here’s a bit more about me: 👇
 &nbsp;&nbsp;&nbsp;![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white))&nbsp;
+&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)&nbsp;
 
 🔹 **Big Data Tools**  
 
@@ -52,8 +52,8 @@ Here’s a bit more about me: 👇
 ## 🌱 **What I'm Learning**
 I'm always growing! Currently exploring:  
 🔹 Real-time machine learning with Kafka Streams  
-🔹 Advanced data governance and cataloging with tools like Apache
-🔹 Infrastructure as code with Opentufu  
+🔹 Advanced data governance and cataloging with tools like Apache Atlas  
+🔹 Infrastructure as code with Terraform  
 
 ---
 
