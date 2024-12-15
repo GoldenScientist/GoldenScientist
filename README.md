@@ -1,5 +1,4 @@
-## Hi there 👋
-# 💻 Hello, I'm [GoldenScientist] – Data Engineer & SRE Extraordinaire! 🚀
+## 💻 Hello 👋 there I'm Aubert EMAKO – Data Engineer & SRE Extraordinaire! 🚀
 
 I specialize in designing and implementing robust data pipelines, optimizing workflows, and delivering scalable solutions for big data challenges.  
 Here’s a bit more about me: 👇
