@@ -9,12 +9,12 @@ Here’s a bit more about me: 👇
 ## 🛠️ **Tech Stack**
 🔹 **Programming Languages** 
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;
-![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
+&nbsp;![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;
+&nbsp;![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
+&nbsp;![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;
+&nbsp;![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;
+&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 🔹 **Big Data Tools**  
 
