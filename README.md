@@ -8,36 +8,38 @@ Here’s a bit more about me: 👇
 
 ## 🛠️ **Tech Stack**
 🔹 **Programming Languages**:  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;   
-![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;   
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;   
-![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;   
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)&nbsp; 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 🔹 **Big Data Tools**:  
-&nbsp;&nbsp;&nbsp;![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-F26322?logo=opentelemetry&logoColor=white)  
+![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)&nbsp;
+![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)&nbsp;
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)&nbsp;
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-F26322?logo=opentelemetry&logoColor=white)
 
 🔹 **Cloud Platforms & Infrastructure**:  
-&nbsp;&nbsp;&nbsp;![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)&nbsp;
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 
 🔹 **Databases**:  
-&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)  
-&nbsp;&nbsp;&nbsp;![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)&nbsp;
+![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)
 
 🔹 **Monitoring & Visualization**:  
-&nbsp;&nbsp;&nbsp;![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white) 
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)&nbsp;
 
 🔹 **Other Tools**:  
-&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
