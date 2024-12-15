@@ -16,7 +16,7 @@ Here’s a bit more about me: 👇
 
 ## 🛠️ **Tech Stack**
 <p align="left">
-  🔹 <strong>Programming Languages</strong>
+<strong>Programming Languages</strong>
   <br>
    <br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -32,14 +32,14 @@ Here’s a bit more about me: 👇
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
-🔹 <strong>Databases</strong>
+<strong>Databases</strong>
 <p align="left">
    <a href="https://www.influxdata.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxDB" width="40" height="40"/>
   </a>
  </p> 
 <p align="left">
-  🔹 <strong>Big Data Tools</strong>
+ <strong>Big Data Tools</strong>
   <br>
    <br>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
@@ -50,14 +50,14 @@ Here’s a bit more about me: 👇
   </a>
 </p>
 
-🔹 <strong>Visualization & Monitoring</strong>
+<strong>Visualization & Monitoring</strong>
 <p align="left">
  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
   </a>
 </p>
 <p align="left">
-  🔹 <strong>Cloud Platforms & Infrastructure:</strong>
+<strong>Cloud Platforms & Infrastructure:</strong>
   <br>
    <br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
