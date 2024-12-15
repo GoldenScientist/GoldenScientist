@@ -8,6 +8,7 @@ Here’s a bit more about me: 👇
 
 ## 🛠️ **Tech Stack**
 🔹 **Programming Languages** 
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;
 ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
