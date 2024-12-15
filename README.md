@@ -69,8 +69,8 @@ I'm always growing! Currently exploring:
 🔗 [LinkedIn](https://www.linkedin.com/in/aubert-e-5a9305101/)
 🔗 [Mongulu](https://www.mongulu.cm/en_index.html)  
 
-💬 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about data engineering! 😄
-📫 You can contact me at **aubertsoft2014@gmail.com** 
+- 💬 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about data engineering! 😄
+- 📫 You can contact me at **aubertsoft2014@gmail.com** 
 
 ---
 
