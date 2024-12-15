@@ -35,7 +35,7 @@ I'm always growing! Currently exploring:
 ## 🤝 **Let's Connect!**
 🌍 Find me across the web:  
 🔗 [LinkedIn](https://www.linkedin.com/in/aubert-e-5a9305101/)
-🔗 [Portfolio Website](https://www.mongulu.cm/en_index.html)  
+🔗 [Mongulu](https://www.mongulu.cm/en_index.html)  
 
 💬 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about data engineering! 😄
 
