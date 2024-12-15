@@ -2,6 +2,13 @@
 
 👋 Welcome to my GitHub profile!  
 I specialize in designing and implementing robust data pipelines, optimizing workflows, and delivering scalable solutions for big data challenges.  
+
+<div align="center">
+  <a href="https://github.com/Rez4-3yz/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=🌟+Passionate+Data+Engineer+🌟;📊+Big+Data+Specialist+📊;⚙️+Cloud+Infrastructure+Expert+⚙️;📈+Data+Pipeline+Optimizer+📈&center=true&width=500&height=50">
+  </a>
+</div>
+
 Here’s a bit more about me: 👇
 
 ---
