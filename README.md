@@ -53,7 +53,6 @@ Here’s a bit more about me: 👇
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   </a>
-  <a href="https://www.databricks.com/product/data-intelligence-platform?scid=7018Y000001Fi0tQAC&utm_medium=paid+search&utm_source=google&utm_campaign=14925738952&utm_adgroup=133613219972&utm_content=product+page&utm_offer=data-intelligence-platform&utm_ad=703594938209&utm_term=databricks&gad_source=1&gclid=CjwKCAiA9vS6BhA9EiwAJpnXw0zyLII24pBvzWsRalP7dvetCbD63OQMnlUW4voZpxwODae2G0I7TRoCFwsQAvD_BwE" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Bash" width="40" height="40"/>
   </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
