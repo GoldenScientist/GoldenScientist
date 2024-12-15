@@ -51,7 +51,7 @@ Here’s a bit more about me: 👇
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
   </a>
-  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Bash" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" alt="Bash" width="60" height="60"/>
   </a>
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/>
