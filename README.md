@@ -25,10 +25,10 @@ Here’s a bit more about me: 👇
   <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/>
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+  <a href="https://www.stroustrup.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
 </p>
@@ -45,7 +45,7 @@ Here’s a bit more about me: 👇
   </a>
  </p> 
 <p align="left">
- <h3>Big Data Tools</h3>
+ <h3>Big Data Platform & Tools</h3>
   <br>
    <br>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
@@ -53,6 +53,9 @@ Here’s a bit more about me: 👇
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
+  </a>
+  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg"  alt="Databricks" width="40" height="40"/>
   </a>
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="Rabbitmq" width="40" height="40"/>
