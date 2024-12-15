@@ -57,7 +57,7 @@ Here’s a bit more about me: 👇
   </a>
 </p>
 <p align="left">
-<h3>Cloud Platforms & Infrastructure:</h3>
+<h3>Cloud Platforms & Infrastructure</h3>
   <br>
    <br>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -70,8 +70,13 @@ Here’s a bit more about me: 👇
     <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
   </a>
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
   </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"  alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://opentofu.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opentofu/opentofu-icon.svg" alt="Opentofu" alt="Opentofu" width="40" height="40" />
 </p>
 
 ---
