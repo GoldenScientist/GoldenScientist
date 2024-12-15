@@ -60,7 +60,7 @@ Here’s a bit more about me: 👇
 I'm always growing! Currently exploring:  
 🔹 Real-time machine learning with Kafka Streams  
 🔹 Advanced data governance and cataloging with tools like Apache Atlas  
-🔹 Infrastructure as code with Terraform  
+🔹 Infrastructure as code with **Opentufu**  
 
 ---
 
@@ -70,6 +70,7 @@ I'm always growing! Currently exploring:
 🔗 [Mongulu](https://www.mongulu.cm/en_index.html)  
 
 💬 Feel free to reach out for collaborations, open-source contributions, or just a friendly chat about data engineering! 😄
+📫 You can contact me at **aubertsoft2014@gmail.com** 
 
 ---
 
