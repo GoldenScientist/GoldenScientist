@@ -15,45 +15,56 @@ Here’s a bit more about me: 👇
 ---
 
 ## 🛠️ **Tech Stack**
-🔹 **Programming Languages** 
-
-&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)&nbsp;
-
-🔹 **Big Data Tools**  
-
-&nbsp;&nbsp;&nbsp;![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=apachekafka&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-F26322?logo=opentelemetry&logoColor=white)&nbsp;&nbsp;
-
-🔹 **Cloud Platforms & Infrastructure**  
-
-&nbsp;&nbsp;&nbsp;![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)&nbsp;
-
-🔹 **Databases**  
-
-&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)&nbsp;
-
-🔹 **Monitoring & Visualization**  
-
-&nbsp;&nbsp;&nbsp;![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)&nbsp;
-
-🔹 **Other Tools**  
-
-&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)&nbsp;
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" alt="Apache Spark" width="40" height="40"/>
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Apache Kafka" width="40" height="40"/>
+  </a>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="Apache Airflow" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
+  </a>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://grafana.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40"/>
+  </a>
+  <a href="https://influxdata.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/influxdata/influxdata-icon.svg" alt="InfluxDB" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+  </a>
+  <a href="https://www.scala-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="Scala" width="40" height="40"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
