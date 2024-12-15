@@ -8,6 +8,7 @@ I specialize in designing and implementing robust data pipelines, optimizing wor
     <img src="https://readme-typing-svg.herokuapp.com?lines=🌟+Passionate+Data+Engineer+🌟;📊+Big+Data+Specialist+📊;⚙️+Cloud+Infrastructure+Expert+⚙️;📈+Data+Pipeline+Optimizer+📈&center=true&width=500&height=50">
   </a>
 </div>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif">
 
 Here’s a bit more about me: 👇
 
