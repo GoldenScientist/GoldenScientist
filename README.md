@@ -52,7 +52,7 @@ Here’s a bit more about me: 👇
 ## 🌱 **What I'm Learning**
 I'm always growing! Currently exploring:  
 🔹 Real-time machine learning with Kafka Streams  
-🔹 Advanced data governance and cataloging with tools like Apache 
+🔹 Advanced data governance and cataloging with tools like Apache
 🔹 Infrastructure as code with Opentufu  
 
 ---
