@@ -25,35 +25,35 @@ Here’s a bit more about me: 👇
 
 🔹 **Cloud Platforms & Infrastructure**  
 
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
+&nbsp;&nbsp;&nbsp;![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)
 
 🔹 **Databases**  
 
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)&nbsp;
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)&nbsp;
-![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)
+&nbsp;&nbsp;&nbsp;![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![InfluxDB](https://img.shields.io/badge/-InfluxDB-22ADF6?logo=influxdb&logoColor=white)
 
 🔹 **Monitoring & Visualization**  
 
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white)&nbsp;
 
 🔹 **Other Tools**  
 
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+&nbsp;&nbsp;&nbsp;![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)&nbsp;
+&nbsp;&nbsp;&nbsp;![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 🌱 **What I'm Learning**
 I'm always growing! Currently exploring:  
 🔹 Real-time machine learning with Kafka Streams  
-🔹 Advanced data governance and cataloging with tools like Apache Atlas  
-🔹 Infrastructure as code with Terraform  
+🔹 Advanced data governance and cataloging with tools like Apache 
+🔹 Infrastructure as code with Opentufu  
 
 ---
 
@@ -66,7 +66,7 @@ I'm always growing! Currently exploring:
 
 ---
 
-⭐️ **Fun Fact:** When I’m not wrangling data, you can find me 🎨 painting, 📚 reading sci-fi, or 🏞️ hiking in the mountains!
+⭐️ **Fun Fact:** When I’m not wrangling data, you can find me 🎨 painting, 📚 reading sci-fi, or🎣 Fishing at sea!
 
 ---
 
