@@ -35,7 +35,7 @@ Here’s a bit more about me: 👇
 &nbsp;&nbsp;&nbsp;![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=googlecloud&logoColor=white)&nbsp;
 &nbsp;&nbsp;&nbsp;![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)&nbsp;
-&nbsp;&nbsp;&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white))&nbsp;
+&nbsp;&nbsp;&nbsp;![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white)&nbsp;
 
 🔹 **Databases**  
 
